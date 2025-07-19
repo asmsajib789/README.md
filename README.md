@@ -37,7 +37,7 @@ I'm passionate about merging **tech and marketing** — building high-converting
 
 | Project          | Description                      | Live Link                  |
 |------------------|--------------------------------|----------------------------|
-| 🤖 Telegram Bot  | Lead form + promo code auto-reply | [@sajibvai_bot](https://t.me/sajibvai_bot) |
+| 🤖 Telegram Bot  | Lead form + promo code auto-reply | [@Mohammadsajib789](https://t.me/Mohammadsajib789) |
 
 ---
 
