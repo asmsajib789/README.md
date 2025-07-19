@@ -1,37 +1,55 @@
-# ASM Sajib Portfolio
+# 👋 Hi, I'm ASM Sajib
 
-স্বাগতম! আমি ASM Sajib, একজন ডেভেলপার এবং এফিলিয়েট মার্কেটিং এক্সপার্ট।
-
----
-
-## আমার প্রোফাইল
-
-- [GitHub প্রোফাইল](https://github.com/asmsajib789)
-- [Facebook](https://www.facebook.com/sr.sajib789)
-- [Replit Bounties](https://replit.com/bounties)
+🎯 I’m an **Affiliate Marketing Expert** with hands-on experience in:
+- Landing Page Development
+- Telegram Bot Integration
+- Web Automation & Lead Tracking
 
 ---
 
-## আমার কাজ
+## 🧑‍💻 About Me
 
-আমি ওয়েব ডেভেলপমেন্ট, বট ডেভেলপমেন্ট, এবং এফিলিয়েট মার্কেটিংয়ে দক্ষ।  
-আমার পোর্টফোলিও দেখুন এবং আমার সাথে যোগাযোগ করুন।
-
----
-
-## Replit Bounties
-
-Replit Bounties হলো একটি প্ল্যাটফর্ম যেখানে ডেভেলপাররা বিভিন্ন ছোট কাজ করে অর্থ উপার্জন করতে পারে।  
-তুমি চাইলে এখানে গিয়ে কাজ পেতে পারো: [https://replit.com/bounties](https://replit.com/bounties)
+I'm passionate about merging **tech and marketing** — building high-converting landing pages, bots, and automation tools that drive real results. I also help others build their affiliate journey from scratch.
 
 ---
 
-## যোগাযোগ
+## 🚀 Skills
 
-- Telegram: [@Mohammadsajib789](https://t.me/Mohammadsajib789)  
-- ফোন: +8801713464592  
-- ইমেইল: asmsajib789@gmail.com
+- 🖥 HTML, CSS, JavaScript  
+- ⚙️ Python (Web Automation)  
+- 🌐 Landing Page Design  
+- 🤖 Telegram Bot Development  
+- 📊 Click Analytics & Conversion Tracking  
+- 🔧 Git, GitHub, Netlify, Replit  
 
 ---
 
-ধন্যবাদ তোমার সময় দেওয়ার জন্য!
+## 🛠 Tools I Use
+
+![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)  
+![GitHub](https://img.shields.io/badge/GitHub-Hosting-black?logo=github)  
+![Netlify](https://img.shields.io/badge/Netlify-Deploy-brightgreen?logo=netlify)  
+![Replit](https://img.shields.io/badge/Replit-Cloud-blueviolet?logo=replit)  
+
+---
+
+## 📈 Projects
+
+| Project          | Description                      | Live Link                  |
+|------------------|--------------------------------|----------------------------|
+| 🤖 Telegram Bot  | Lead form + promo code auto-reply | [@sajibvai_bot](https://t.me/sajibvai_bot) |
+
+---
+
+## 📞 Contact Me
+
+- 🔗 **Portfolio:** [https://asmsajib789.github.io/asm-sajib-portfolio/](https://asmsajib789.github.io/asm-sajib-portfolio/)  
+- 📱 **Telegram:** [@Mohammadsajib789](https://t.me/Mohammadsajib789)  
+- 📞 **Phone:** `017134645492`  
+- 🌐 **Facebook:** [facebook.com/sr.sajib789](https://facebook.com/sr.sajib789)  
+
+---
+
+## ❤️ Let's Collaborate!
+
+If you need a 🔥 high-converting landing page, Telegram bot, or want to grow your affiliate marketing — I'm here to help!
